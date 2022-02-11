@@ -1,0 +1,27 @@
+{
+  "name": "jest-vladilen",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galimard/Jest-Vladilen.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest"
+  ],
+  "author": "Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galimard/Jest-Vladilen/issues"
+  },
+  "homepage": "https://github.com/Galimard/Jest-Vladilen#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
