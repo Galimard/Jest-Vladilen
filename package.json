@@ -23,5 +23,12 @@
   "homepage": "https://github.com/Galimard/Jest-Vladilen#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "moduleDirectories": [
+    "node_modules",
+    "src"
+  ],
+  "dependencies": {
+    "jest-cli": "^27.5.1"
   }
 }
